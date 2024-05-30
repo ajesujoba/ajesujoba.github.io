@@ -5,6 +5,13 @@ author_profile: true
 ---
 
 <br>
+
+<b>[EkoHate: Abusive Language and Hate Speech Detection for Code-switched Political Discussions on Nigerian Twitter](https://arxiv.org/abs/2404.18180)</b> <br> 
+Comfort Eseohen Ilevbare, <b>Jesujoba O. Alabi</b>, David Ifeoluwa Adelani, Firdous Damilola Bakare, Oluwatoyin Bunmi Abiola, Oluwaseyi Adesina Adeyemo. <i>The 8th Workshop on Online Abuse and Harms</i>. <b>WOAH 2024</b>. .
+
+<b>[AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness](https://arxiv.org/abs/2404.01490)</b> <br> 
+Miaoran Zhang, Mingyang Wang, <b>Jesujoba O. Alabi</b>, Dietrich Klakow. <i>The 18th International Workshop on Semantic Evaluation</i>. <b>SemEval-2024</b>. .
+
 <b>[EdinSaar@WMT21: North-Germanic Low-Resource Multilingual NMT](https://arxiv.org/abs/2109.14368)</b> <br> 
 Svetlana Tchistiakova, <b>Jesujoba Alabi</b>, Koel Dutta Chowdhury, Sourav Dutta, Dana Ruiter. <i>The sixth conference of Machine Translation</i>. <b>WMT 2021</b>. .
 
