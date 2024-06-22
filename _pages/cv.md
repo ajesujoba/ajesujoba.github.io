@@ -68,6 +68,8 @@ Skills
 
 Honors and Awards
 ======
+* Best System Description Paper Award at SemEval 2024, NAACL 2024, Mexico - 2024
+* Area Chair Award(Resources and Evaluation) at the AACL 2023, Indonesia - 2023
 * Best Paper Award (Grand Challenge KISTI category) at the COLING 2022, South Korea - 2022
 * 1st prize, AI4D Takwimu Lab - Machine Translation Challenge - 2021
 * Saarland Scholarship for International Students (STIBET III DAAD Graduation Grant) - 2020
