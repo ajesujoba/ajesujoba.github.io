@@ -17,6 +17,7 @@ News
 
 * I attended the GCND doctoral school/hackathon titled <a href="https://athnlp.github.io/2024/index.html">GCND Hackathon: Automatic linguistic annotation and speech recognition of dialects</a> in Ghent from  7th to 9th October, 2024
 * I attended the <a href="https://athnlp.github.io/2024/index.html">Athens NLP 2024 Summer School</a> in Greece from  19th to 25th September, 2024
+* Our paper <a href="https://www.sciencedirect.com/science/article/pii/S1570826824000192">UNIQORN: Unified Question Answering over RDF Knowledge Graphs and Natural Language Text</a> (with Soumajit Pramanik, et al.) has been accepted at Journal of Web Semantics (05.09.2024)
 * I completed my time at the NII Yamagishi Lab, Tokyo (29.08.2024)
 * Our paper <a href="https://aclanthology.org/2024.semeval-1.114.pdf">AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness</a> won the best system description paper ward at SemEval Workshop 2024 🏆 (21.06.2024)
 * Our paper <a href="https://aclanthology.org/2024.findings-acl.438.pdf">The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis</a> (with Miaoran Zhang, et al.) has been accepted at ACL 2024 (16.06.2024)
