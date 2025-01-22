@@ -15,8 +15,8 @@ redirect_from:
 News
 ======
 
-* I attended the GCND doctoral school/hackathon titled <a href="https://athnlp.github.io/2024/index.html">GCND Hackathon: Automatic linguistic annotation and speech recognition of dialects</a> in Ghent from  7th to 9th October, 2024
-* I attended the <a href="https://athnlp.github.io/2024/index.html">Athens NLP 2024 Summer School</a> in Greece from  19th to 25th September, 2024
+* I attended the GCND doctoral school/hackathon titled <a href="https://www.gcnd.ugent.be/en/gcnd-hackathon/">GCND Hackathon: Automatic linguistic annotation and speech recognition of dialects</a> in Ghent, 🇧🇪 from  7th to 9th October, 2024
+* I attended the <a href="https://athnlp.github.io/2024/index.html">Athens NLP 2024 Summer School</a> in Greece, 🇬🇷 from  19th to 25th September, 2024
 * Our paper <a href="https://www.sciencedirect.com/science/article/pii/S1570826824000192">UNIQORN: Unified Question Answering over RDF Knowledge Graphs and Natural Language Text</a> (with Soumajit Pramanik, et al.) has been accepted at Journal of Web Semantics (05.09.2024)
 * I completed my time at the NII Yamagishi Lab, Tokyo (29.08.2024)
 * Our paper <a href="https://aclanthology.org/2024.semeval-1.114.pdf">AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness</a> won the best system description paper ward at SemEval Workshop 2024 🏆 (21.06.2024)
@@ -24,6 +24,7 @@ News
 * Our paper <a href="https://aclanthology.org/2024.semeval-1.114.pdf">The Hidden Space of Transformer Language Adapter</a> (with Marius Mosbach, Matan Eyal, Dietrich Klakow, and Mor Geva) has been accepted at ACL 2024 (16.06.2024)
 * I resumed as a research intern at the NII Yamagishi Lab, Tokyo for 3 months internship (08.06.2024)
 * Our paper <a href="https://aclanthology.org/2024.semeval-1.114.pdf">AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness</a> (with Miaoran Zhang, Mingyang Wang, and, Dietrich Klakow has been accepted at SemEval Workshop 2024 (19.03.2024)
+* I attended EMNLP 2023 in singapore, 🇸🇬 from  5th to 11th December, 2023, I also presented a poster at BlackboxNLP colocated with EMNLP
 * Our paper <a href="https://aclanthology.org/2022.coling-1.382.pdf">Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning</a> won the best paper award in the Grand Challenge KISTI category at COLING 2022 🏆 (14.10.2022) 
 * Our system description paper <a href="">Inria-ALMAnaCH at WMT 2022: Does Transcription Help Cross-Script Machine Translation?</a> (with Lydia Nishimwe, Benjamin Muller, Camille Rey, Benoît Sagot, and Rachel Bawden) has been accepted at WMT 2022 (11.10.2022)
 * Our system description paper <a href="https://arxiv.org/pdf/2210.10692.pdf">Separating Grains from the Chaff: Using Data Filtering to Improve Multilingual Translation for Low-Resourced African Languages</a> (with Idris Abdulmumin, Michael Beukman, Chris Emezue, and 7 others) has been accepted at WMT 2022 (11.10.2022)
