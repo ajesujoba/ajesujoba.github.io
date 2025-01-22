@@ -22,10 +22,15 @@ Work experience
   * Supervisor: <a href="https://www.lsv.uni-saarland.de/people/dietrich-klakow/">Prof. Dr. Dietrich Klakow</a>
   * Topic: Data Augmentation in NLP
 
-* May 2024 - August 2024: Research Intern
+* Jan 2025 - February 2025: Invited visiting Ph.D. student
   * NII Speech group, <a href = "https://nii-yamagishilab.github.io/">National Institute of Informatics (NII), Japan</a>
   * Supervisor: <a href="https://nii-yamagishilab.github.io/author/junichi-yamagishi/">Prof. Junichi Yamagishi</a>
   * Topic: TTS for under-resourced languages
+  * 
+* May 2024 - August 2024: Research Intern
+  * NII Speech group, <a href = "https://nii-yamagishilab.github.io/">National Institute of Informatics (NII), Japan</a>
+  * Supervisor: <a href="https://nii-yamagishilab.github.io/author/junichi-yamagishi/">Prof. Junichi Yamagishi</a>
+  * Topic: SSL for under-resourced languages
     
 * February 2022 - June 2022: Research Engineer
   * ALMAnaCH project-team, <a href = "https://files.inria.fr/almanach/index-en.html">INRIA Paris</a>
