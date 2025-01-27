@@ -15,6 +15,7 @@ redirect_from:
 News
 ======
 
+* I am at the at the NII Yamagishi Lab, Tokyo 🇯🇵 for a short research visit (22.01.2025)
 * I attended the GCND doctoral school/hackathon titled <a href="https://www.gcnd.ugent.be/en/gcnd-hackathon/">GCND Hackathon: Automatic linguistic annotation and speech recognition of dialects</a> in Ghent, 🇧🇪 from  7th to 9th October, 2024
 * I attended the <a href="https://athnlp.github.io/2024/index.html">Athens NLP 2024 Summer School</a> in Greece, 🇬🇷 from  19th to 25th September, 2024
 * Our paper <a href="https://www.sciencedirect.com/science/article/pii/S1570826824000192">UNIQORN: Unified Question Answering over RDF Knowledge Graphs and Natural Language Text</a> (with Soumajit Pramanik, et al.) has been accepted at Journal of Web Semantics (05.09.2024)
