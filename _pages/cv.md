@@ -26,7 +26,7 @@ Work experience
   * NII Speech group, <a href = "https://nii-yamagishilab.github.io/">National Institute of Informatics (NII), Japan</a>
   * Supervisor: <a href="https://nii-yamagishilab.github.io/author/junichi-yamagishi/">Prof. Junichi Yamagishi</a>
   * Topic: TTS for under-resourced languages
-  * 
+    
 * May 2024 - August 2024: Research Intern
   * NII Speech group, <a href = "https://nii-yamagishilab.github.io/">National Institute of Informatics (NII), Japan</a>
   * Supervisor: <a href="https://nii-yamagishilab.github.io/author/junichi-yamagishi/">Prof. Junichi Yamagishi</a>
