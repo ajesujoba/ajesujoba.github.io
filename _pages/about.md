@@ -15,6 +15,7 @@ redirect_from:
 News
 ======
 
+* I attended the  <a href="https://sites.google.com/view/africanlp2025/home"> AfricaNLP 2025 Workshop: Multilingual and Multicultural-aware LLMs </a> in Vienna, 🇦🇹, and gave an invited talk titled "Mapping Progress in African NLP" (31.07.2025)
 * I attended the  <a href="https://clap-lab.github.io/workshop.html"> HumanCLAIM Workshop: The Human Perspective on Cross-Lingual AI Models </a> in Göttingen, 🇩🇪 from  26th to 27th March, 2025
 * I was at the NII Yamagishi Lab, Tokyo 🇯🇵 for a short research visit (22.01.2025-28.02.2025)
 * I attended the GCND doctoral school/hackathon titled <a href="https://www.gcnd.ugent.be/en/gcnd-hackathon/">GCND Hackathon: Automatic linguistic annotation and speech recognition of dialects</a> in Ghent, 🇧🇪 from  7th to 9th October, 2024
