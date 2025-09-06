@@ -15,7 +15,7 @@ redirect_from:
 News
 ======
 * I gave an guest lecture (online) on "Neural Machine Translation" at the University of Ibadan, 🇳🇬 (03.09.2025) 
-* I gave an invited talk titled "Adaptation at Scale: Making Multilingual Models Work for Underrepresented Languages" at the 2025 Erasmus LCT Summer School (26.08.2025) 
+* I gave an invited talk titled "Adaptation at Scale: Making Multilingual Models Work for Underrepresented Languages" at the 2025 Erasmus LCT Summer School, 🇩🇪 (26.08.2025) 
 * I attended <a href="https://sites.google.com/view/africanlp2025/home"> Interspeech 2025 </a> in Rotterdam, 🇳🇱, and presented a poster of our paper "<a href="https://www.isca-archive.org/interspeech_2025/alabi25_interspeech.html"> AfriHuBERT</a>" (21.08.2025)
 * I attended the  <a href="https://sites.google.com/view/africanlp2025/home">AfricaNLP 2025 Workshop: Multilingual and Multicultural-aware LLMs</a> in Vienna, 🇦🇹, and gave an keynote talk titled "Mapping Progress in African NLP" (31.07.2025)
 * I attended the  <a href="https://clap-lab.github.io/workshop.html"> HumanCLAIM Workshop: The Human Perspective on Cross-Lingual AI Models </a> in Göttingen, 🇩🇪 from  26th to 27th March, 2025
