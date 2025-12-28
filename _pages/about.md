@@ -32,6 +32,7 @@ News
 * I resumed as a research intern at the NII Yamagishi Lab, Tokyo for 3 months internship (08.06.2024)
 * Our paper <a href="https://aclanthology.org/2024.semeval-1.114.pdf">AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness</a> (with Miaoran Zhang, Mingyang Wang, and, Dietrich Klakow has been accepted at SemEval Workshop 2024 (19.03.2024)
 * I attended EMNLP 2023 in singapore, 🇸🇬 from  5th to 11th December, 2023, I also presented a poster at BlackboxNLP colocated with EMNLP
+* I attended AfricAI Conference in Kigali, 🇷🇼 from  12th to 14th June, 2023
 * Our paper <a href="https://aclanthology.org/2022.coling-1.382.pdf">Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning</a> won the best paper award in the Grand Challenge KISTI category at COLING 2022 🏆 (14.10.2022) 
 * Our system description paper <a href="">Inria-ALMAnaCH at WMT 2022: Does Transcription Help Cross-Script Machine Translation?</a> (with Lydia Nishimwe, Benjamin Muller, Camille Rey, Benoît Sagot, and Rachel Bawden) has been accepted at WMT 2022 (11.10.2022)
 * Our system description paper <a href="https://arxiv.org/pdf/2210.10692.pdf">Separating Grains from the Chaff: Using Data Filtering to Improve Multilingual Translation for Low-Resourced African Languages</a> (with Idris Abdulmumin, Michael Beukman, Chris Emezue, and 7 others) has been accepted at WMT 2022 (11.10.2022)
