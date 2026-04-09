@@ -14,6 +14,8 @@ redirect_from:
 
 News
 ======
+* I gave an invited talk titled “Building NLP for African Languages: Challenges and Opportunities” at the Department of Linguistics (Faculty of Arts), University of Ibadan, 🇳🇬 (08.04.2026) 
+* I submitted PhD thesis titled  "Advancing African NLP: Adaptation, Analysis, and Evaluation of Large Language Models" (19.03.2026)
 * I attended the  <a href="https://lrlnlp.github.io/website/">LowResNLP 2025 Workshop</a> (colocated with RANLP 2025) in Varna, 🇧🇬, and gave an keynote talk titled "Bridging the Gap: Low-Resource NLP for African Languages
 " (13.09.2025) 
 * I gave a guest lecture (online) on "Neural Machine Translation" at the University of Ibadan, 🇳🇬 (03.09.2025) 
