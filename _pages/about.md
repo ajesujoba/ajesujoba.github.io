@@ -14,7 +14,7 @@ redirect_from:
 
 News
 ======
-* I gave a seminar at the Department of Software and Computing Systems, Universitat d'Alacant. Spain, 🇪🇸,  titled “African NLP Across Scales: Models, Culture, and Documents”, presenting recent work from my research. (21.05.2026)
+* I gave a seminar at the Transducens research group, Universitat d'Alacant. Spain, 🇪🇸,  titled “African NLP Across Scales: Models, Culture, and Documents”, presenting recent work from my research. (21.05.2026)
 * I gave a seminar at HiTZ zentroa in  San Sebastián, 🇪🇸,  titled “Scaling and Evaluating Large Language Models for African Languages”, presenting recent work from my research. (18.05.2026)
 * I attended <a href="https://lrec2026.info/">LREC 2026</a> in Mallorca, 🇪🇸, where I presented <a href="https://lrec.elra.info/lrec2026-main-115">Uhura</a>  and <a href="https://lrec.elra.info/lrec2026-main-567">YoNER</a> as oral talks, while <a href="https://lrec.elra.info/lrec2026-main-454">Italian Arias</a> and <a href="https://lrec.elra.info/lrec2026-main-454">Saar-Voice</a> were presented by their lead authors. (14.05.2026)
 * I gave an invited talk titled “Building NLP for African Languages: Challenges and Opportunities” at the Department of Linguistics (Faculty of Arts), University of Ibadan, 🇳🇬 (08.04.2026) 
