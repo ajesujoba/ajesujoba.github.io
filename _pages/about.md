@@ -19,7 +19,7 @@ News
 * I gave a seminar at HiTZ zentroa in  San Sebastián, 🇪🇸,  titled “Scaling and Evaluating Large Language Models for African Languages”, presenting recent work from my research. (18.05.2026)
 * I attended <a href="https://lrec2026.info/">LREC 2026</a> in Mallorca, 🇪🇸, where I presented <a href="https://lrec.elra.info/lrec2026-main-115">Uhura</a>  and <a href="https://lrec.elra.info/lrec2026-main-567">YoNER</a> as oral talks, while <a href="https://lrec.elra.info/lrec2026-main-454">Italian Arias</a> and <a href="https://lrec.elra.info/lrec2026-main-454">Saar-Voice</a> were presented by their lead authors. (14.05.2026)
 * I gave an invited talk titled “Building NLP for African Languages: Challenges and Opportunities” at the Department of Linguistics (Faculty of Arts), University of Ibadan, 🇳🇬 (08.04.2026) 
-* I submitted PhD thesis my titled  "Advancing African NLP: Adaptation, Analysis, and Evaluation of Large Language Models" (19.03.2026)
+* I submitted my PhD thesis titled  "Advancing African NLP: Adaptation, Analysis, and Evaluation of Large Language Models" (19.03.2026)
 * I attended the  <a href="https://lrlnlp.github.io/website/">LowResNLP 2025 Workshop</a> (colocated with RANLP 2025) in Varna, 🇧🇬, and gave an keynote talk titled "Bridging the Gap: Low-Resource NLP for African Languages
 " (13.09.2025) 
 * I gave a guest lecture (online) on "Neural Machine Translation" at the University of Ibadan, 🇳🇬 (03.09.2025) 
