@@ -14,6 +14,7 @@ redirect_from:
 
 News
 ======
+* I successfully defended my PhD thesis "Advancing African NLP: Adaptation, Analysis, and Evaluation of Large Language Models". (17.08.2026)
 * Our recent paper, “<a href="https://arxiv.org/abs/2604.11803">Saar-Voice: A Multi-Speaker Saarbrücken Dialect Speech Corpus</a>”, was featured in an interview on <a href="https://www.sr.de/sr/srkultur/home/aktuelles/saar_voice_projekt_universitaet_des_saarlandes_saarlaendisch_dialekt_mundart_chat_gpt_100.html">Saarländischer Rundfunk</a>. The interview with first author Lena Oberkircher discussed about the paper. (28.05.2026)
 *  I gave a seminar at the Transducens research group, Universitat d'Alacant, 🇪🇸,  titled “African NLP Across Scales: Models, Culture, and Documents”, presenting recent work from my research. (21.05.2026)
 * I gave a seminar at HiTZ zentroa in  San Sebastián, 🇪🇸,  titled “Scaling and Evaluating Large Language Models for African Languages”, presenting recent work from my research. (18.05.2026)
@@ -70,3 +71,4 @@ Ruiter, and Josef van Genabith) has been accepted at WMT 2020 (30.09.2020)
 * Our poster <a href=" ajesujoba.github.io/files/Black_in_AI.pdf">"Investigating the quality of pre-trained wordembeddings in Yorùbá, a low-resource Language"</a> was accepted (04.09.2019) and <a href=" ajesujoba.github.io/images/IMG_2203.JPG">presented</a> at the 2019 Black in AI workshop (co-located with Neurips 2019) 08.12.2019
 * Resumed as a Research Assistant at the Multilinguality and Language Technology Group, DFKI (15.11.2019)
 * I moved to Saarland University, Germany for my Masters in Computer Science Program (12.10.2018)
+<!--and was awarded my PhD with summa cum laude.-->
