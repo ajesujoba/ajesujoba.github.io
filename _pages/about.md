@@ -13,6 +13,7 @@ redirect_from:
 * I received my Bachelor’s Degree in Computer Science from Bowen University, Nigeria. My undergraduate research advisors are <a href="https://www.researchgate.net/profile/Olajide-Adeosun">Dr. O.O. Adeosun</a> and <a href="https://scholar.google.com/citations?user=_SJ0QOoAAAAJ&hl=en">Dr. O.A. Ibitoye</a>.
 
 ======
+
 Are you an African student interested in mentorship? Please, fill this form to join <a href="https://docs.google.com/forms/d/e/1FAIpQLScdj9NGFU3JXoxeEdaPVEGcNsmlVv3LqQTLF5Ni9VksXc4kYA/viewform">Uphando ESI community</a>, we offer weekly mentorship.
 
 News
