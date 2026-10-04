@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am a PhD student at <a href="https://www.lsv.uni-saarland.de/">Spoken Language Systems (LSV)</a> group and member of the <a href="https://www.graduateschool-computerscience.de/">Saarbrücken Graduate School of Computer Science</a> at the  <a href="https://saarland-informatics-campus.de/en/">Saarland Informatics Campus</a> working on natural language processing. I am advised by Prof. Dr. Dietrich Klakow. 
+* I hold a PhD in Computer Science from the Saarland University, Germany, where I was advised by Prof. Dr. Dietrich Klakow. My research focused on advancing natural language processing for African languages in this Era of LLMs.  
 * I have obtained my MSc degree in Computer Science from Saarland University. My thesis focused on enriching self supervised neural machine translation using phrases.
 * My research interests lie in the general area of natural language processing (NLP), particularly in NLP for low resource languages, Neural Machine Translation (NMT), Information Extraction, Question Answering Systems and Representation Learning.
 * I received my Bachelor’s Degree in Computer Science from Bowen University, Nigeria. My undergraduate research advisors are <a href="https://www.researchgate.net/profile/Olajide-Adeosun">Dr. O.O. Adeosun</a> and <a href="https://scholar.google.com/citations?user=_SJ0QOoAAAAJ&hl=en">Dr. O.A. Ibitoye</a>.
-* Are you an African student interested in mentorship? Please, fill this form to join <a href="https://docs.google.com/forms/d/e/1FAIpQLScdj9NGFU3JXoxeEdaPVEGcNsmlVv3LqQTLF5Ni9VksXc4kYA/viewform">Uphando ESI community</a>, we offer weekly mentorship.
+
+======
+Are you an African student interested in mentorship? Please, fill this form to join <a href="https://docs.google.com/forms/d/e/1FAIpQLScdj9NGFU3JXoxeEdaPVEGcNsmlVv3LqQTLF5Ni9VksXc4kYA/viewform">Uphando ESI community</a>, we offer weekly mentorship.
 
 News
 ======
